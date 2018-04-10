@@ -12,3 +12,5 @@
 ##### 10/04/2018: 21:11 - 21:14:pool[setup relationships with other models]
 
 ##### 10/04/2018: 21:14 - 21:15:pool[implement chat_room show action]
+
+##### 10/04/2018: 21:15 - 21:18:pool[set up chat_room show view and message views]
