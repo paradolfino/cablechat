@@ -1,1 +1,5 @@
 
+[begin clientside implementation of actioncable]
+### 10/04/2018[21:49 - 21:57]:
+* implement redis
+
