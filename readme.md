@@ -18,3 +18,5 @@
 ##### 10/04/2018: 21:18 - 21:20:pool[implement gravatar_for method in application_helper]
 
 ##### 10/04/2018: 21:20 - 21:21:pool[add routes]
+
+##### 10/04/2018: 21:49 - 21:57:pool[implement redis]
