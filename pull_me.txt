@@ -1,0 +1,14 @@
+
+[initial project setup, add devise, add bootstrap, create models, views, controllers, relationships, and routes]
+### 10/04/2018[20:49 - 21:21]:
+* initial project setup
+* install devise
+* configure devise
+* chatrooms controller and views setup
+* setup messages model
+* setup relationships with other models
+* implement chat_room show action
+* set up chat_room show view and message views
+* implement gravatar_for method in application_helper
+* add routes
+
