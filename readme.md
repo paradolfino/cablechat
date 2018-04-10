@@ -14,3 +14,5 @@
 ##### 10/04/2018: 21:14 - 21:15:pool[implement chat_room show action]
 
 ##### 10/04/2018: 21:15 - 21:18:pool[set up chat_room show view and message views]
+
+##### 10/04/2018: 21:18 - 21:20:pool[implement gravatar_for method in application_helper]
