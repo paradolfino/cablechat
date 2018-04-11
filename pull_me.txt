@@ -1,1 +1,6 @@
 
+[implement actioncable server and client side]
+### 11/04/2018[20:18 - 20:42]:
+* setup server side for actioncable
+* finish action cable implementation
+
