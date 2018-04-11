@@ -20,3 +20,5 @@
 ##### 10/04/2018: 21:20 - 21:21:pool[add routes]
 
 ##### 10/04/2018: 21:49 - 21:57:pool[implement redis]
+
+##### 11/04/2018: 20:18 - 20:27:pool[setup server side for actioncable]
